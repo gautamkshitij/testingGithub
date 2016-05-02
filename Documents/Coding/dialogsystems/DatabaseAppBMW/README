@@ -1,0 +1,9 @@
+CodeAssistant
+A mixed initiative dialogue system which converts spoken dialogue to written java code. 
+CodeAssistant (CA) will take as input a user’s natural spoken representation of a written 
+command.
+
+How to Build
+1. Ensure JDK 1.8 or higher is installed
+2. Load Eclipse Project 
+3. Run Launcher.java
